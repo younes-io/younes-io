@@ -10,8 +10,7 @@
   * The Goal: A Process of Ongoing Improvement
   * The Phoenix Project
   * & others...
-- 📫 How to reach me? dev at younes dot io
-
+- 📫 How to reach me? by email!
 <!---
 younes-io/younes-io is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
