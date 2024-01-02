@@ -30,13 +30,6 @@ When I'm not decoding the digital world, I'm piecing together the puzzles of his
 ### 👀 Profile Views Count
 ![Profile Views](https://komarev.com/ghpvc/?username=younes-io)
 
-### 📚 Favorite Books
-- The Rust Programming Language
-- Rust for Rustaceans
-- Specifying Systems
-- Practical TLA+
-- The Goal: A Process of Ongoing Improvement
-- The Phoenix Project
 
     </td>
     <!-- Right Column -->
@@ -44,9 +37,6 @@ When I'm not decoding the digital world, I'm piecing together the puzzles of his
 
 ### 📈 GitHub Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=younes-io&show_icons=true&theme=radical)
-
-### 🔥 Streak Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=younes-io&theme=dark&background=000000)
 
 ### 📊 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younes-io&layout=compact&theme=radical)
