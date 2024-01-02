@@ -5,7 +5,7 @@
 
 # Hello, World! 🌟
 
-I'm a **software developer** with a passion for crafting code into something magical. Here's what I love to do:
+I'm a **software developer** with a passion for crafting code into something *useful*. Here's what I love to do:
 
 - 🦀 **Rust**: Building robust and efficient systems.
 - 💻 **TypeScript & Node.js**: Creating dynamic and scalable web applications.
