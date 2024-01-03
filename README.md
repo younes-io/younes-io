@@ -25,6 +25,7 @@ When I'm not decoding the digital world, I'm piecing together the puzzles of his
 ![](https://img.shields.io/badge/Language-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Language-TLA+-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Method-Formal_Verification-informational?style=flat&color=2bbc8a)
 
 ### 👀 Profile Views Count
