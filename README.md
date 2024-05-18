@@ -17,9 +17,3 @@ When I'm not decoding the digital world, I'm piecing together the puzzles of his
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Language-TLA+-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Method-Formal_Verification-informational?style=flat&color=2bbc8a)
-
-### 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=younes-io&layout=compact&theme=radical)
-
-### 📈 GitHub Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=younes-io&show_icons=true&theme=radical)
