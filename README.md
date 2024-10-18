@@ -1,11 +1,6 @@
-🌟 I'm a **software developer** with a passion for crafting code into something *useful*. Here's what I enjoy:
-
-- 🦀 **Rust**: Building robust and efficient systems.
-- 💻 **TypeScript & Node.js**: Creating dynamic and scalable web applications.
-- 🐍 **Python**: Automating the boring stuff and data wrangling.
-- ✅ **TLA+**: Ensuring everything runs without a hitch.
-
-When I'm not decoding the digital world, I'm piecing together the puzzles of history, or just enjoying *another* cup of Mint Tea 🍵
+## Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 ### 🛠️ Technologies & Tools
