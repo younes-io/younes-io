@@ -1,7 +1,7 @@
 name: Update README with latest blog posts
 on:
   schedule:
-    # Runs every 15 minutes
+    # Runs every hour
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
@@ -16,6 +16,5 @@ jobs:
           feed_list: "https://younes.io/index.xml"
           max_post_count: 5
           template: "- 📝 [$title]($url)"
-          custom_tags: "h3"
-          date_format: "yyyy/MM/dd"
+          custom_tags: "h2"
           commit_message: "Updated README with the latest blog posts"
