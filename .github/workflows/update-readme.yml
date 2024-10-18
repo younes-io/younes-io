@@ -15,6 +15,6 @@ jobs:
         with:
           feed_list: "https://younes.io/index.xml"
           max_post_count: 5
-          template: "- 📝 [$title]($url)"
+          template: "$newline- 📝 [$title]($url)"
           custom_tags: "h2"
           commit_message: "Updated README with the latest blog posts"
