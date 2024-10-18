@@ -1,7 +1,6 @@
 name: Update README with latest blog posts
 on:
   schedule:
-    # Runs every hour
     - cron: '*/15 * * * *'
   workflow_dispatch:
 
