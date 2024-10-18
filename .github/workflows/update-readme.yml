@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://younes.io/posts/index.xml"
+          feed_list: "https://younes.io/index.xml"
           max_post_count: 5
