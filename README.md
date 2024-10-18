@@ -1,5 +1,7 @@
 ### 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->- 📝 [Example-Based Testing: Enough!](https://younes.io/posts/2024/10/example-based-testing/)- 📝 [Primer](https://younes.io/posts/2024/10/welcome/)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- 📝 [Example-Based Testing: Enough!](https://younes.io/posts/2024/10/example-based-testing/)
+- 📝 [Primer](https://younes.io/posts/2024/10/welcome/)<!-- BLOG-POST-LIST:END -->
 
 ### 🛠️ Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
