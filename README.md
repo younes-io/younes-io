@@ -1,5 +1,6 @@
 ### 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- 📝 [Token Ring Protocol in TLA+: Part 1](https://younes.io/posts/2024/10/token-ring-protocol-in-tlaplus-part-1/)
 - 📝 [Example-Based Testing: Enough!](https://younes.io/posts/2024/10/example-based-testing/)
 - 📝 [Primer](https://younes.io/posts/2024/10/welcome/)<!-- BLOG-POST-LIST:END -->
 
