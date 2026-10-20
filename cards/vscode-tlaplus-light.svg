@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="150" viewBox="0 0 270 150">
+<rect x="0.5" y="0.5" width="269" height="149" rx="10" fill="#ffffff" stroke="#d1d9e0"/>
+<text x="20" y="34" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" font-weight="600" fill="#0969da">vscode-tlaplus</text>
+<text x="20" y="55" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="12" fill="#59636e">: TLA⁺ → VS Code</text>
+<text x="20" y="80" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">Coverage heat maps and</text><text x="20" y="99" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="13" fill="#1f2328">go-to-definition.</text>
+<circle cx="25" cy="126" r="4.5" fill="#3178c6"/>
+<text x="36" y="130" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="12" fill="#59636e">TypeScript</text>
+</svg>
