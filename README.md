@@ -5,7 +5,7 @@
 <p>
 <a href="https://github.com/younes-io/mdust"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/mdust-dark.svg"><img src="cards/mdust-light.svg" alt="mdust: Markdown to HTML, byte-identical to markdown-it, about 10x faster. Rust and Wasm." width="32%"></picture></a>
 <a href="https://github.com/younes-io/agent-skills"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/agent-skills-dark.svg"><img src="cards/agent-skills-light.svg" alt="agent-skills: skills that write TLA+ specs and TLAPS proofs, then run TLC and tlapm on them." width="32%"></picture></a>
-<a href="https://github.com/younes-io/devnull"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/devnull-dark.svg"><img src="cards/devnull-light.svg" alt="devnull: Claude Code plugins. /screensaver hides your terminal until Esc." width="32%"></picture></a>
+<a href="https://github.com/younes-io/ttyl"><picture><source media="(prefers-color-scheme: dark)" srcset="cards/ttyl-dark.svg"><img src="cards/ttyl-light.svg" alt="ttyl: a TUI for dev-null.sh. Read, write, vote, and view images without the mouse. Rust and ratatui." width="32%"></picture></a>
 </p>
 
 #### `~/upstream`
