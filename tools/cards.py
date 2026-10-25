@@ -12,9 +12,9 @@ THEMES = {
 }
 
 CARDS = [
-    ("mdust", "Markdown → HTML", ["Byte-identical to markdown-it,", "about 10× faster."], "Rust · Wasm", "#dea584"),
+    ("ttyl", "/dev/null → tty", ["A TUI for dev-null.sh. Read, write,", "vote, view images, no mouse."], "Rust", "#dea584"),
     ("agent-skills", "intent → TLA⁺ → ⊢", ["Skills for TLA⁺ specs and", "TLAPS proofs, machine-checked."], "TLA⁺", "#8f6bd8"),
-    ("ttyl", "/dev/null → tty", ["A TUI for dev-null.sh. Read, write,", "vote, view images, no mouse."], "Rust · ratatui", "#dea584"),
+    ("mdust", "Markdown → HTML", ["Byte-identical to markdown-it,", "about 10× faster."], "Rust · Wasm", "#dea584"),
     ("vscode-tlaplus", "TLA⁺ → VS Code", ["Coverage heat maps and", "go-to-definition."], "TypeScript", "#3178c6"),
     ("CommunityModules", "TLA⁺ ⇄ CBOR", ["Reads and writes TLA⁺", "values as CBOR."], "TLA⁺", "#8f6bd8"),
     ("cargo-wizard", "rustc → sccache rustc", ["sccache as a compiler", "wrapper option."], "Rust", "#dea584"),
